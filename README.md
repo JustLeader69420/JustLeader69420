@@ -3,6 +3,7 @@
 I sometimes play around with electronics using Arduinos and ESPs, or I might write/change up some code for some other projects like my 3D Printer's firmware, or simple bash/bat/whatever scripts for automation.
 
 Check out my Gitea instance, which I use a bit more than GitHub: https://git.jldr.eu
+
 Contact: https://contact.jldr.eu
 
 <!--
