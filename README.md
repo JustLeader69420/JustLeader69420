@@ -1,4 +1,9 @@
-### Hi there 👋
+### I enjoy messing around with electronics and software stuff :)
+
+I play around with electronics using Arduinos and ESPs, and sometimes, I might write/edit some code for some other projects.
+
+Check out my Gitea instance, which I use a bit more than GitHub: https://git.jldr.eu
+Contact: https://contact.jldr.eu
 
 <!--
 **JustLeader69420/JustLeader69420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
